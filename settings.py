@@ -8,7 +8,7 @@ DEBUG = os.path.exists('.debug') or (os.environ.has_key('DEBUG') and os.environ[
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
-    ('Jonathan Enzinna', 'jenzinna@vaultheadgames.com'),
+    ('Jonathan Enzinna', 'jonnyfunfun@gmail.com'),
 )
 
 MANAGERS = ADMINS
