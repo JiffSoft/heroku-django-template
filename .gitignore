@@ -1,0 +1,17 @@
+.venv
+venv
+*.pyc
+*.pyo
+*~
+*.log
+*.pot
+*.db
+tmp
+logs
+local_settings.py
+.idea
+debug
+.debug
+staticfiles
+thumbs.db
+.ds_store
